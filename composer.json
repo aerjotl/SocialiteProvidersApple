@@ -1,5 +1,5 @@
 {
-    "name": "socialiteproviders/apple",
+    "name": "aerjotl/socialite-providers-apple",
     "description": "Apple OAuth2 Provider for Laravel Socialite",
     "license": "MIT",
     "keywords": [
