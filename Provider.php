@@ -213,6 +213,7 @@ class Provider extends AbstractProvider
                 'id'    => $user['sub'],
                 'name'  => $fullName ?? null,
                 'email' => $user['email'] ?? null,
+                'transfer_sub'      => $user['transfer_sub'] ?? null
             ]);
     }
 
